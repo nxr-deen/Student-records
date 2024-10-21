@@ -10,7 +10,7 @@ This repository contains a C program (`student_data.c`) that manages student inf
 
 ## How to Compile and Run
 
-1. Ensure you have a C compilerinstalled (e.g., `gcc`).
+1. Ensure you have a C compiler installed (e.g., `gcc`).
 2. Clone this repository:
    ```bash
    git clone https://github.com/NoureddineBou/student_records.git
