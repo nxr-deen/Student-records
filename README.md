@@ -2,6 +2,7 @@
 
 This repository contains a C program (`student_data.c`) that manages student information in a binary file named `students.dat`. The program allows users to input multiple student records and read the stored data.
 
+
 ## Features
 
 - Structure definition for student information.
